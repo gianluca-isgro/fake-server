@@ -50,38 +50,6 @@
             "attachments":[
             ]
          }
-      },
-      {
-         "_index":"project",
-         "TYPE":"project",
-         "ID":"P3dsLWwBRe-OaquqNQNO",
-         "_score":1,
-         "_source":{
-            "posturl":"",
-            "name":"Test2",
-            "typeproject":"AnotherTest",
-            "description":"wedw",
-            "link":"",
-            "responsible":"",
-            "contacts":"Manfredi",
-            "logo":{
-               "fieldname":"data[logo]",
-               "originalname":"Screenshot_20190718_121055.png",
-               "encoding":"7bit",
-               "mimetype":"image/png",
-               "id":"5d3abb71003d13000f414b0e",
-               "filename":"Screenshot_20190718_121055.png",
-               "metadata":"null",
-               "bucketName":"fs",
-               "chunkSize":261120,
-               "size":3282,
-               "md5":"a07be559b58384daa4482616306d67fd",
-               "uploadDate":"2019-07-26T08:36:01.995Z",
-               "contentType":"image/png"
-            },
-            "attachments":[
-            ]
-         }
       }
    ],
    "extraData":{
