@@ -18,38 +18,6 @@
             "attachments":[
             ]
          }
-      },
-      {
-         "_index":"project",
-         "TYPE":"project",
-         "ID":"PXdfLWwBRe-OaquqmANQ",
-         "_score":1,
-         "_source":{
-            "posturl":"",
-            "name":"Test E",
-            "typeproject":"project",
-            "description":"a test",
-            "link":"",
-            "responsible":"",
-            "contacts":"Manfri",
-            "logo":{
-               "fieldname":"data[logo]",
-               "originalname":"Screenshot_20190718_121055.png",
-               "encoding":"7bit",
-               "mimetype":"image/png",
-               "id":"5d3ab837003d13000f414b08",
-               "filename":"Screenshot_20190718_121055.png",
-               "metadata":"null",
-               "bucketName":"fs",
-               "chunkSize":261120,
-               "size":3282,
-               "md5":"a07be559b58384daa4482616306d67fd",
-               "uploadDate":"2019-07-26T08:22:15.373Z",
-               "contentType":"image/png"
-            },
-            "attachments":[
-            ]
-         }
       }
    ],
    "extraData":{
