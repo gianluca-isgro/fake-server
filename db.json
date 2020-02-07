@@ -20,53 +20,6 @@
          }
       },
       {
-         "_index":"geopoint",
-         "TYPE":"webcontent",
-         "ID":"xuBUKGwB7DWmWZ7FIWSx",
-         "_score":1,
-         "_source":{
-            "posturl":"",
-            "type":"pilot",
-            "name":"Geo WebContent Entities",
-            "description":"A test Description",
-            "link":"",
-            "equipment":"LOL",
-            "responsible":"Manfredi",
-            "locationtext":"Palermo",
-            "location":{
-               "type":"Point",
-               "coordinates":[
-                  "",
-                  ""
-               ]
-            },
-            "contacts":"",
-            "multimedia":[
-               {
-                  "multimedia_link":"",
-                  "multimedia_label":""
-               }
-            ],
-            "logo":{
-               "fieldname":"data[logo]",
-               "originalname":"Screenshot_20190718_121055.png",
-               "encoding":"7bit",
-               "mimetype":"image/png",
-               "id":"5d39b906ee244369812cb741",
-               "filename":"Screenshot_20190718_121055.png",
-               "metadata":"null",
-               "bucketName":"fs",
-               "chunkSize":261120,
-               "size":3282,
-               "md5":"a07be559b58384daa4482616306d67fd",
-               "uploadDate":"2019-07-25T14:13:26.532Z",
-               "contentType":"image/png"
-            },
-            "attachments":[
-            ]
-         }
-      },
-      {
          "_index":"project",
          "TYPE":"project",
          "ID":"PXdfLWwBRe-OaquqmANQ",
